@@ -127,10 +127,10 @@
         }
     ],
     "images": [
-        "assets/dental_clinic_0.jpg",
-        "assets/dental_clinic_1.jpg",
-        "assets/dental_clinic_2.jpg",
-        "assets/dental_clinic_3.jpg"
+        "https://api.dicebear.com/7.x/identicon/svg?seed=clinic_cosmic-dental_0",
+        "https://api.dicebear.com/7.x/identicon/svg?seed=clinic_cosmic-dental_1",
+        "https://api.dicebear.com/7.x/identicon/svg?seed=clinic_cosmic-dental_2",
+        "https://api.dicebear.com/7.x/identicon/svg?seed=clinic_cosmic-dental_3"
     ],
     "color_theme": "dark-blue-silver",
     "map_url": "https://maps.app.goo.gl/eHCtanoe527u4Qym6"
