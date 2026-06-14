@@ -71,7 +71,7 @@
         },
         {
             "name": "Afiya Ibnat",
-            "text": "Cosmic Dental offers an exceptional standard of care with a truly professional approach. The dentists are highly skilled, genuinely friendly, and always warm, attentive, and reassuring. The clinic maintains excellent hygiene, creating a calm and comfortable environment for patients. Their treatments are effective, gentle, and reasonably priced.\n\nOverall, it is a trustworthy and commendable choice for quality dental care in Dhaka 🦷🦷",
+            "text": "Cosmic Dental offers an exceptional standard of care with a truly professional approach. The dentists are highly skilled, genuinely friendly, and always warm, attentive, and reassuring. The clinic maintains excellent hygiene, creating a calm and comfortable environment for patients. Their treatments are effective, gentle, and reasonably priced.\n\nOverall, it is a trustworthy and commendable choice for quality dental care in Dhaka \ud83e\uddb7\ud83e\uddb7",
             "rating": 5,
             "date": "a month ago",
             "photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVX_RjjXowOqrhRDEa7fyblI2MnOvdaCz9XXGZabBgeCymi-vZD5g=s1920-c-rp-mo-br100",
@@ -111,7 +111,7 @@
         },
         {
             "name": "jahir raihan",
-            "text": "“এখানের ডাক্তার এবং স্টাফদের ব্যবহার খুবই ভালো। আধুনিক যন্ত্রপাতি দিয়ে সুন্দরভাবে চিকিৎসা করা হয়। আমার দাঁতের সমস্যা অনেকটাই ভালো হয়েছে। Highly recommended!”",
+            "text": "\u201c\u098f\u0996\u09be\u09a8\u09c7\u09b0 \u09a1\u09be\u0995\u09cd\u09a4\u09be\u09b0 \u098f\u09ac\u0982 \u09b8\u09cd\u099f\u09be\u09ab\u09a6\u09c7\u09b0 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u0996\u09c1\u09ac\u0987 \u09ad\u09be\u09b2\u09cb\u0964 \u0986\u09a7\u09c1\u09a8\u09bf\u0995 \u09af\u09a8\u09cd\u09a4\u09cd\u09b0\u09aa\u09be\u09a4\u09bf \u09a6\u09bf\u09df\u09c7 \u09b8\u09c1\u09a8\u09cd\u09a6\u09b0\u09ad\u09be\u09ac\u09c7 \u099a\u09bf\u0995\u09bf\u09ce\u09b8\u09be \u0995\u09b0\u09be \u09b9\u09df\u0964 \u0986\u09ae\u09be\u09b0 \u09a6\u09be\u0981\u09a4\u09c7\u09b0 \u09b8\u09ae\u09b8\u09cd\u09af\u09be \u0985\u09a8\u09c7\u0995\u099f\u09be\u0987 \u09ad\u09be\u09b2\u09cb \u09b9\u09df\u09c7\u099b\u09c7\u0964 Highly recommended!\u201d",
             "rating": 5,
             "date": "a month ago",
             "photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWS1vCqCWRDXpUCAqttohRoIXCfJYPooGz4unu55oW5zjz33Hjm=s1920-c-rp-mo-br100",
@@ -119,7 +119,7 @@
         },
         {
             "name": "Yeasin Arafat",
-            "text": "“দাঁতের ব্যথা নিয়ে গিয়েছিলাম, দ্রুত এবং ভালো চিকিৎসা পেয়েছি। ডাক্তার অনেক আন্তরিক ছিলেন।”",
+            "text": "\u201c\u09a6\u09be\u0981\u09a4\u09c7\u09b0 \u09ac\u09cd\u09af\u09a5\u09be \u09a8\u09bf\u09df\u09c7 \u0997\u09bf\u09df\u09c7\u099b\u09bf\u09b2\u09be\u09ae, \u09a6\u09cd\u09b0\u09c1\u09a4 \u098f\u09ac\u0982 \u09ad\u09be\u09b2\u09cb \u099a\u09bf\u0995\u09bf\u09ce\u09b8\u09be \u09aa\u09c7\u09df\u09c7\u099b\u09bf\u0964 \u09a1\u09be\u0995\u09cd\u09a4\u09be\u09b0 \u0985\u09a8\u09c7\u0995 \u0986\u09a8\u09cd\u09a4\u09b0\u09bf\u0995 \u099b\u09bf\u09b2\u09c7\u09a8\u0964\u201d",
             "rating": 5,
             "date": "a month ago",
             "photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJefpO5gtrFvcVI42FO1oSqvqHaklZt_GILk-CGVisc5mfrLw=s1920-c-rp-mo-br100",
@@ -133,5 +133,38 @@
         "assets/dental_clinic_2.jpg"
     ],
     "color_theme": "dark-blue-silver",
-    "map_url": "https://maps.app.goo.gl/eHCtanoe527u4Qym6"
+    "map_url": "https://maps.app.goo.gl/PvkTp2qzWYug5FU26",
+    "openingHours": [
+        {
+            "day": "Monday",
+            "hours": "5:30 to 10:30\u202fPM"
+        },
+        {
+            "day": "Tuesday",
+            "hours": "5:30 to 10:30\u202fPM"
+        },
+        {
+            "day": "Wednesday",
+            "hours": "5:30 to 10:30\u202fPM"
+        },
+        {
+            "day": "Thursday",
+            "hours": "5:30 to 10:30\u202fPM"
+        },
+        {
+            "day": "Friday",
+            "hours": "Closed"
+        },
+        {
+            "day": "Saturday",
+            "hours": "5:30 to 10:30\u202fPM"
+        },
+        {
+            "day": "Sunday",
+            "hours": "5:30 to 10:30\u202fPM"
+        }
+    ],
+    "title": "Cosmic Dental by Dr Moniruzzaman",
+    "about": {},
+    "additionalInfo": {}
 }
