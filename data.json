@@ -1,0 +1,137 @@
+{
+    "name": "Cosmic Dental by Dr Moniruzzaman",
+    "phone": "+880 1770-591529",
+    "address": "Block-C, House -36 Rd 05, Dhaka 1219, Bangladesh",
+    "city": "Dhaka",
+    "rating": 5,
+    "reviews": [
+        {
+            "name": "jewelshil Jewel",
+            "text": "Helpful and best dentist dr Moniruzzaman dr tasfeya afroz",
+            "rating": 5,
+            "date": "5 days ago",
+            "photo_url": "",
+            "photo_path": "https://api.dicebear.com/7.x/adventurer/svg?seed=jewelshil Jewel"
+        },
+        {
+            "name": "Rohul amin Hasan",
+            "text": "Got best service from DrMoniruzzaman and Dr tasfeya afroz",
+            "rating": 5,
+            "date": "5 days ago",
+            "photo_url": "",
+            "photo_path": "https://api.dicebear.com/7.x/adventurer/svg?seed=Rohul amin Hasan"
+        },
+        {
+            "name": "Saheen Alam",
+            "text": "I think the Cosmic dental service was really better than others.\nSpecially thanks Dr Moniruzzaman for his careful treatment. I can refer any patients to go this clinic for their dental betterment.",
+            "rating": 5,
+            "date": "2 weeks ago",
+            "photo_url": "",
+            "photo_path": "https://api.dicebear.com/7.x/adventurer/svg?seed=Saheen Alam"
+        },
+        {
+            "name": "Jubaer Ahmed",
+            "text": "Got my scaling done from here, I have to say it was one of the most smoothest scaling I have ever gotten from any dentist. Highly recommended.",
+            "rating": 5,
+            "date": "2 weeks ago",
+            "photo_url": "",
+            "photo_path": "https://api.dicebear.com/7.x/adventurer/svg?seed=Jubaer Ahmed"
+        },
+        {
+            "name": "Abeg Mohammad",
+            "text": null,
+            "rating": 5,
+            "date": "2 weeks ago",
+            "photo_url": "",
+            "photo_path": "https://api.dicebear.com/7.x/adventurer/svg?seed=Abeg Mohammad"
+        },
+        {
+            "name": "Syed Din islam",
+            "text": "Have a great experience, well behavior & well managed",
+            "rating": 5,
+            "date": "3 weeks ago",
+            "photo_url": "",
+            "photo_path": "https://api.dicebear.com/7.x/adventurer/svg?seed=Syed Din islam"
+        },
+        {
+            "name": "Mayabi Nusaifa",
+            "text": "Best dental Surgeon by Dr. Moniruzzaman  cosmic dental",
+            "rating": 5,
+            "date": "4 weeks ago",
+            "photo_url": "",
+            "photo_path": "https://api.dicebear.com/7.x/adventurer/svg?seed=Mayabi Nusaifa"
+        },
+        {
+            "name": "Jahir Raihan",
+            "text": "Best dentist",
+            "rating": 5,
+            "date": "4 weeks ago",
+            "photo_url": "",
+            "photo_path": "https://api.dicebear.com/7.x/adventurer/svg?seed=Jahir Raihan"
+        },
+        {
+            "name": "Afiya Ibnat",
+            "text": "Cosmic Dental offers an exceptional standard of care with a truly professional approach. The dentists are highly skilled, genuinely friendly, and always warm, attentive, and reassuring. The clinic maintains excellent hygiene, creating a calm and comfortable environment for patients. Their treatments are effective, gentle, and reasonably priced.\n\nOverall, it is a trustworthy and commendable choice for quality dental care in Dhaka 🦷🦷",
+            "rating": 5,
+            "date": "a month ago",
+            "photo_url": "",
+            "photo_path": "https://api.dicebear.com/7.x/adventurer/svg?seed=Afiya Ibnat"
+        },
+        {
+            "name": "Masud Parvege Rubel",
+            "text": "Friendly jolly minded best dentist\nDr moniruzzaman",
+            "rating": 5,
+            "date": "a month ago",
+            "photo_url": "",
+            "photo_path": "https://api.dicebear.com/7.x/adventurer/svg?seed=Masud Parvege Rubel"
+        },
+        {
+            "name": "Md Rayhan",
+            "text": "Best dental",
+            "rating": 5,
+            "date": "a month ago",
+            "photo_url": "",
+            "photo_path": "https://api.dicebear.com/7.x/adventurer/svg?seed=Md Rayhan"
+        },
+        {
+            "name": "Sihab Hossain",
+            "text": "Best dental surgeon Dr. Moniruzzaman by cosmic dental",
+            "rating": 5,
+            "date": "a month ago",
+            "photo_url": "",
+            "photo_path": "https://api.dicebear.com/7.x/adventurer/svg?seed=Sihab Hossain"
+        },
+        {
+            "name": "aslam khan",
+            "text": null,
+            "rating": 5,
+            "date": "a month ago",
+            "photo_url": "",
+            "photo_path": "https://api.dicebear.com/7.x/adventurer/svg?seed=aslam khan"
+        },
+        {
+            "name": "jahir raihan",
+            "text": "“এখানের ডাক্তার এবং স্টাফদের ব্যবহার খুবই ভালো। আধুনিক যন্ত্রপাতি দিয়ে সুন্দরভাবে চিকিৎসা করা হয়। আমার দাঁতের সমস্যা অনেকটাই ভালো হয়েছে। Highly recommended!”",
+            "rating": 5,
+            "date": "a month ago",
+            "photo_url": "",
+            "photo_path": "https://api.dicebear.com/7.x/adventurer/svg?seed=jahir raihan"
+        },
+        {
+            "name": "Yeasin Arafat",
+            "text": "“দাঁতের ব্যথা নিয়ে গিয়েছিলাম, দ্রুত এবং ভালো চিকিৎসা পেয়েছি। ডাক্তার অনেক আন্তরিক ছিলেন।”",
+            "rating": 5,
+            "date": "a month ago",
+            "photo_url": "",
+            "photo_path": "https://api.dicebear.com/7.x/adventurer/svg?seed=Yeasin Arafat"
+        }
+    ],
+    "images": [
+        "assets/dental_clinic_0.jpg",
+        "assets/dental_clinic_1.jpg",
+        "assets/dental_clinic_2.jpg",
+        "assets/dental_clinic_3.jpg"
+    ],
+    "color_theme": "dark-blue-silver",
+    "map_url": "https://maps.app.goo.gl/eHCtanoe527u4Qym6"
+}
